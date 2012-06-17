@@ -1,0 +1,2 @@
+cmdhistory=["(doc for)" "(doc use)" "(use maze-generation)" "(doc require)" "(require 'maze-generation)" "(grid 3 3)" "(grid 2 2)" "(grid 3 3)" "(maze (grid 3 3))" "(doc if-let)"]
+eclipse.preferences.version=1
